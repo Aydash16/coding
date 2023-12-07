@@ -1,0 +1,14 @@
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\bin\Debug\net6.0\sixth.exe
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\bin\Debug\net6.0\sixth.deps.json
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\bin\Debug\net6.0\sixth.runtimeconfig.json
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\bin\Debug\net6.0\sixth.dll
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\bin\Debug\net6.0\sixth.pdb
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\obj\Debug\net6.0\sixth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\obj\Debug\net6.0\sixth.AssemblyInfoInputs.cache
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\obj\Debug\net6.0\sixth.AssemblyInfo.cs
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\obj\Debug\net6.0\sixth.csproj.CoreCompileInputs.cache
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\obj\Debug\net6.0\sixth.dll
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\obj\Debug\net6.0\refint\sixth.dll
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\obj\Debug\net6.0\sixth.pdb
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\obj\Debug\net6.0\sixth.genruntimeconfig.cache
+C:\Users\Sayan\Desktop\rkis-master\6 labs\sixth\obj\Debug\net6.0\ref\sixth.dll

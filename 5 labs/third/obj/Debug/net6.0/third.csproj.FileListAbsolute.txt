@@ -1,0 +1,14 @@
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\bin\Debug\net6.0\third.exe
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\bin\Debug\net6.0\third.deps.json
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\bin\Debug\net6.0\third.runtimeconfig.json
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\bin\Debug\net6.0\third.dll
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\bin\Debug\net6.0\third.pdb
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\obj\Debug\net6.0\third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\obj\Debug\net6.0\third.AssemblyInfoInputs.cache
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\obj\Debug\net6.0\third.AssemblyInfo.cs
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\obj\Debug\net6.0\third.csproj.CoreCompileInputs.cache
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\obj\Debug\net6.0\third.dll
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\obj\Debug\net6.0\refint\third.dll
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\obj\Debug\net6.0\third.pdb
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\obj\Debug\net6.0\third.genruntimeconfig.cache
+C:\Users\Sayan\Desktop\rkis-master\5 labs\third\obj\Debug\net6.0\ref\third.dll

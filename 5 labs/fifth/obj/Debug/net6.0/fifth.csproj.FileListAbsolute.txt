@@ -1,0 +1,14 @@
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\bin\Debug\net6.0\fifth.exe
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\bin\Debug\net6.0\fifth.deps.json
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\bin\Debug\net6.0\fifth.runtimeconfig.json
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\bin\Debug\net6.0\fifth.dll
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\bin\Debug\net6.0\fifth.pdb
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\obj\Debug\net6.0\fifth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\obj\Debug\net6.0\fifth.AssemblyInfoInputs.cache
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\obj\Debug\net6.0\fifth.AssemblyInfo.cs
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\obj\Debug\net6.0\fifth.csproj.CoreCompileInputs.cache
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\obj\Debug\net6.0\fifth.dll
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\obj\Debug\net6.0\refint\fifth.dll
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\obj\Debug\net6.0\fifth.pdb
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\obj\Debug\net6.0\fifth.genruntimeconfig.cache
+C:\Users\Sayan\Desktop\rkis-master\5 labs\fifth\obj\Debug\net6.0\ref\fifth.dll

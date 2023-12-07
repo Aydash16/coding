@@ -1,0 +1,14 @@
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\bin\Debug\net6.0\first_task.exe
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\bin\Debug\net6.0\first_task.deps.json
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\bin\Debug\net6.0\first_task.runtimeconfig.json
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\bin\Debug\net6.0\first_task.dll
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\bin\Debug\net6.0\ref\first_task.dll
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\bin\Debug\net6.0\first_task.pdb
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\obj\Debug\net6.0\first_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\obj\Debug\net6.0\first_task.AssemblyInfoInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\obj\Debug\net6.0\first_task.AssemblyInfo.cs
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\obj\Debug\net6.0\first_task.csproj.CoreCompileInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\obj\Debug\net6.0\first_task.dll
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\obj\Debug\net6.0\ref\first_task.dll
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\obj\Debug\net6.0\first_task.pdb
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\first_task\first_task\obj\Debug\net6.0\first_task.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\bin\Debug\net6.0\third_task.exe
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\bin\Debug\net6.0\third_task.deps.json
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\bin\Debug\net6.0\third_task.runtimeconfig.json
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\bin\Debug\net6.0\third_task.dll
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\bin\Debug\net6.0\ref\third_task.dll
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\bin\Debug\net6.0\third_task.pdb
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\obj\Debug\net6.0\third_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\obj\Debug\net6.0\third_task.AssemblyInfoInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\obj\Debug\net6.0\third_task.AssemblyInfo.cs
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\obj\Debug\net6.0\third_task.csproj.CoreCompileInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\obj\Debug\net6.0\third_task.dll
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\obj\Debug\net6.0\ref\third_task.dll
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\obj\Debug\net6.0\third_task.pdb
+C:\Users\gr622_orahe\Desktop\rkis\2 lab\third_task\third_task\obj\Debug\net6.0\third_task.genruntimeconfig.cache

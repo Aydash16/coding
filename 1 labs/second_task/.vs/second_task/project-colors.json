@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfd89cf0-c61b-4100-be82-f86aaeda03fc": {
+      "ProjectGuid": "bfd89cf0-c61b-4100-be82-f86aaeda03fc",
+      "DisplayName": "second_task",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

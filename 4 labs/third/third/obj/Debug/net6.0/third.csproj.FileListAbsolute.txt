@@ -1,0 +1,14 @@
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\obj\Debug\net6.0\third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\obj\Debug\net6.0\third.AssemblyInfoInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\obj\Debug\net6.0\third.AssemblyInfo.cs
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\obj\Debug\net6.0\third.csproj.CoreCompileInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\bin\Debug\net6.0\third.exe
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\bin\Debug\net6.0\third.deps.json
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\bin\Debug\net6.0\third.runtimeconfig.json
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\bin\Debug\net6.0\third.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\bin\Debug\net6.0\ref\third.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\bin\Debug\net6.0\third.pdb
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\obj\Debug\net6.0\third.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\obj\Debug\net6.0\ref\third.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\obj\Debug\net6.0\third.pdb
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\third\third\obj\Debug\net6.0\third.genruntimeconfig.cache

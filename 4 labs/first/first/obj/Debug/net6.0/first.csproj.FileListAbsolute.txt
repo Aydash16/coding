@@ -1,0 +1,14 @@
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\bin\Debug\net6.0\first.exe
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\bin\Debug\net6.0\first.deps.json
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\bin\Debug\net6.0\first.runtimeconfig.json
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\bin\Debug\net6.0\first.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\bin\Debug\net6.0\ref\first.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\bin\Debug\net6.0\first.pdb
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\obj\Debug\net6.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\obj\Debug\net6.0\first.AssemblyInfoInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\obj\Debug\net6.0\first.AssemblyInfo.cs
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\obj\Debug\net6.0\first.csproj.CoreCompileInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\obj\Debug\net6.0\first.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\obj\Debug\net6.0\ref\first.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\obj\Debug\net6.0\first.pdb
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\first\first\obj\Debug\net6.0\first.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\bin\Debug\net6.0\sixth.exe
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\bin\Debug\net6.0\sixth.deps.json
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\bin\Debug\net6.0\sixth.runtimeconfig.json
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\bin\Debug\net6.0\sixth.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\bin\Debug\net6.0\ref\sixth.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\bin\Debug\net6.0\sixth.pdb
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\obj\Debug\net6.0\sixth.csproj.AssemblyReference.cache
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\obj\Debug\net6.0\sixth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\obj\Debug\net6.0\sixth.AssemblyInfoInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\obj\Debug\net6.0\sixth.AssemblyInfo.cs
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\obj\Debug\net6.0\sixth.csproj.CoreCompileInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\obj\Debug\net6.0\sixth.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\obj\Debug\net6.0\ref\sixth.dll
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\obj\Debug\net6.0\sixth.pdb
+C:\Users\gr622_orahe\Desktop\rkis\4 lab\sixth\sixth\obj\Debug\net6.0\sixth.genruntimeconfig.cache

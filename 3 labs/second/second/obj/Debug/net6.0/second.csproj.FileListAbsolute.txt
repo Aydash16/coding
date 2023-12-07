@@ -1,0 +1,14 @@
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\bin\Debug\net6.0\second.exe
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\bin\Debug\net6.0\second.deps.json
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\bin\Debug\net6.0\second.runtimeconfig.json
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\bin\Debug\net6.0\second.dll
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\bin\Debug\net6.0\ref\second.dll
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\bin\Debug\net6.0\second.pdb
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\obj\Debug\net6.0\second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\obj\Debug\net6.0\second.AssemblyInfoInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\obj\Debug\net6.0\second.AssemblyInfo.cs
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\obj\Debug\net6.0\second.csproj.CoreCompileInputs.cache
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\obj\Debug\net6.0\second.dll
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\obj\Debug\net6.0\ref\second.dll
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\obj\Debug\net6.0\second.pdb
+C:\Users\gr622_orahe\Desktop\rkis\3 lab\second\second\obj\Debug\net6.0\second.genruntimeconfig.cache
